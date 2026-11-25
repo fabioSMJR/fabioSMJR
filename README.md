@@ -13,16 +13,16 @@
 
 📚 Gestão da Tecnologia da Informação — UniCesumar
 
-### Sobre mim
+## Sobre mim
 Sou estudante de Tecnologia da Informação, interessado em desenvolvimento de software, especialmente nas áreas de Backend, Full Stack e automação.
 
 Possuo experiência prática em infraestrutura de redes, com atividades relacionadas a cabeamento estruturado, organização de racks e instalação de equipamentos de rede.
 
 Atualmente, estou ampliando meus conhecimentos em engenharia de software, lógica de programação e desenvolvimento de aplicações, utilizando JavaScript e Python.
 
-### 🚀 Tecnologias e conhecimentos
+## 🚀 Tecnologias e conhecimentos
 
-**Estudando e praticando:**
+### Estudando e praticando:
 
 - JavaScript
 - Python
@@ -45,15 +45,15 @@ Atualmente, estou ampliando meus conhecimentos em engenharia de software, lógic
 
 - Access Points e infraestrutura Wi-Fi
 
-### 📂 Projetos
+## 📂 Projetos
 
-**Desenvolvimento de sistemas:**
+### Desenvolvimento de sistemas:
 
 **Controle de Estoque — Recanto Nordestino:** projeto acadêmico voltado ao gerenciamento e controle de estoque.
 
 **Painel de Produtividade:** projeto pessoal em desenvolvimento.
 
-**Infraestrutura de redes:**
+### Infraestrutura de redes:
 
 - **Implantação de infraestrutura de redes — C&A:** 
   Atuação no projeto de infraestrutura de redes do Centro de Distribuição (CD) da C&A, em Navegantes/SC.
